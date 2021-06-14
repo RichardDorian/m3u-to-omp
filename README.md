@@ -2,6 +2,14 @@
 
 M3U To OMP Convertor made in JavaScript
 
+## Installation
+
+Run in a terminal this command
+```bash
+npm install
+```
+This will install every needed packages
+
 ## How to use ?
 
 Run in a terminal this command
