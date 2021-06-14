@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="smth" tvg-name="Dumbo - 4K HDR" tvg-logo="https://example.com/cover/dumbo.png" group-title="Disney Films",Dumbo - 4K HDR
+https://example.com/films/dumbo.mkv
+#EXTINF:-1 tvg-id="smth" tvg-name="The Lion King - 4K HDR" tvg-logo="https://example.com/cover/thelionking.png" group-title="Disney Films",The Lion King - 4K HDR
+https://example.com/films/thelionking.mkv
